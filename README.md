@@ -18,7 +18,7 @@ Timothy Ushijima
 Acknowledgments
 Following are citations for the code by others
 SAT2D:
-Paniconi C, Putti M. A comparison of Picard and Newton iteration in the numerical solution of multidimensional variably saturated flow problems. Water Resour Res 1994;30:3357–74.
+Paniconi C, Putti M. A comparison of Picard and Newton iteration in the numerical solution of multidimensional variably saturated flow problems. Water Resour Res 1994;30:3357â€“74.
 GA:
 Wall, M. (1995). GAlib: A C++ Library of Genetic Algorithm Components. galib247. Cambridge: Massachusetts Institute of Technology (MIT). Retrieved from http://lancet.mit.edu/ga/
 PSO:
