@@ -1,0 +1,46 @@
+     IPRT1  (FOR OUTPUT OF DATA)             =      0
+       =0 prints parameters only (default)
+       =1 prints par. + b.c. + geom. char.
+       =2 prints par. + b.c. + geom. char.
+          + grid info
+       =3 prints par. + b.c. + geom. char.
+          + grid info + X, Y, coordinate
+          and then stops
+     IPRT   (FOR DETAILED NODAL OUTPUT)      =      0
+       =0 don't print nodal pot. head 
+          and vel. values
+       =1 print only nodal pot. heads
+       =2 print nodal and el. pot. heads
+       =3 print nodal pot. head and vel.
+       =4 print el. pot. head and vel.
+     NPRT   (# OF TIME VALUES FOR DET OUTPUT)=      1
+     NR     (# OF NODES FOR PARTIAL OUTPUT)  =      0
+     TETAF  (EG: 1 BACKWARD EULER, 0.5 C-N)  =     1.00000E+00
+     LUMP   (MASS LUMPING IF NONZERO)        =      1
+
+     IRAD   (RADIAL FLOW IF NONZERO)         =      0
+     ITMXCG (MAX ITER FOR CG LINEAR SOLVERS) =    500
+     TOLCG  (TOLER. FOR CG LINEAR SOLVERS)   =     1.00000E-12
+
+     DELTAT (INITIAL TIME STEP SIZE)         =     1.00000E+00
+     DTMAX  (MAXIMUM TIME STEP SIZE)         =     1.00000E+01
+     TMAX   (TIME AT END OF SIMULATION)      =     1.00000E+10
+     DTMAGA (MAG. FACTOR FOR DELTAT, ADD.)   =     0.00000E+00
+     DTMAGM (MAG. FACTOR FOR DELTAT, MULT.)  =     1.50000E+00
+
+     N      (NUM. NODI RETICOLO)             =    875
+     NT     (NUM. TRIANGOLI RETICOLO   )     =   1632
+     NZONE  (NUMERO ZONE (MATERIAL TYPES))   =      3
+     N1     (NUM. MAX CONTATTI NODALI)       =      6
+
+
+   SATURATED HYDRAULIC CONDUCTIVITY, SPECIFIC STORAGE, AND THICKNESS VALUES
+   MAT.TYPE  X-PERM       Y-PERM       STORAGE      THICKNESS
+
+     NP (# OF DIRICHLET NODES)               =     50
+
+     NQ   (# OF NEUMANN NODES)               =      3
+
+     N     (# OF NODES)                      =    875
+     NT    (# OF TRIANGLES)                  =   1632
+     NP    (TOTAL # OF DIRICHLET NODES)      =     50

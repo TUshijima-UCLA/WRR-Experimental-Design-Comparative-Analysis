@@ -1,0 +1,9 @@
+Name of grid zone file
+grid3z_real.sat2d
+
+Number of zones for use in observations
+2
+
+Zones to use for observations wells
+1
+2

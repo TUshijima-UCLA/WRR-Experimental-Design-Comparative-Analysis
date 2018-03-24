@@ -1,0 +1,10 @@
+0                                     IPRT1
+1.0      1   0                        TETAF  LUMP  IRAD
+500      1.0d-12                      ITMXCG TOLCG
+1.0  5     20          DELTAT DTMAX  TMAX
+0.0      1.5                         DTMAGA DTMAGM
+1                                     IPRT
+1                                    NPRT
+100
+0                                     NR (# OF OUPUT  NODES)
+22133

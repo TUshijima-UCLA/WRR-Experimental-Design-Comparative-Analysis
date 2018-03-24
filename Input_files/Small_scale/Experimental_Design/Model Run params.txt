@@ -1,0 +1,6 @@
+Output times (ts, first value is number of output times)
+10	.1	2	5	7	10	15	25	30	45	50
+Power mean value (m = 0 -> geometric, m = -1 -> harmonic, m = 1 -> arithmetic)
+-1
+Hydrualic Conductivity
+19.3	11.96	5.06	

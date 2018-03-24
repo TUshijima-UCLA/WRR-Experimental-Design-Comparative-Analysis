@@ -1,0 +1,32 @@
+0	Number of points of interest (npoi)
+3	Number of times of interest (ntoi)
+1
+10
+75
+
+
+
+#Stored points of interst testing with npoi = 1 and toi = 1
+9	Number of points of interest (npoi)
+237
+447
+692
+228
+438
+683
+219
+429
+674
+1	Number of times of interest (ntoi)
+50
+
+X	Y	XY coordinates of points of interest (for reference, not read in)
+6	8
+12	8
+19	8
+6	17
+12	17
+19	17
+6	26
+12	26
+19	26

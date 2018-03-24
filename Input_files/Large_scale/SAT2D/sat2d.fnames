@@ -1,0 +1,21 @@
+     1                                  ITERM
+input/parm_real.sat2d                              unit 5       parameters
+input/grid7z_real.sat2d                            unit 8       grid info
+input/dir_real.sat2d                               unit 9       Dirichlet bc
+input/neu_real.sat2d                               unit 10      Neumann bc
+input/material_real_7.sat2d                        unit 11      Material properties
+input/ic_real.sat2d                                unit 12      initial conditions
+output/real2d.risul                                unit 60      main output
+output/sstime.sat2d                                unit 61      steady state time
+output/sat2d.xyz                                   unit 15      x y coordinate
+output/sat2d.mbe                                   unit 21      mass balance output
+output/sat2d.hg                                    unit 36      hydrograph output
+output/sat2d.pot                                   unit 40      potential head output
+output/sat2d.vel                                   unit 41      velocity output
+output/sat2d.vel1                                  unit 42      velocity output
+output/sat2d.vel2                                  unit 51      velocity output
+output/sys.sat2d                                   unit 52      system matrix                            
+
+output/sat2d.terminal                              used only if ITERM=0
+
+
