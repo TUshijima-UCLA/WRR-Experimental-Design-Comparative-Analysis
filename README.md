@@ -1,7 +1,6 @@
 Experimetnal Design Comparative Analaysis
 
 Getting Started:
-The code and datasets here were used in the research submitted to Water Resources Research (WRR). 
 The research makes use of the following code written by others (see Acknowledgments)
 Groundwater model: SAT2D
 Genetic Algorithm (GA): GAlib
